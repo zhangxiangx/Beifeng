@@ -1,0 +1,273 @@
+@media (max-width: 1920px) {
+
+  .basefoot {
+    clear: both;
+  }
+  .toggleTab {
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 41px;
+    background: #fff;
+  }
+  .toggleTab .directionV2 .tab-ul {
+    padding-left: 0.68rem;
+    padding-bottom: 0.15rem;
+  }
+  .toggleTab .directionV2 .tab-ul .tab-li {
+    display: inline-block !important;
+  }
+  .toggleTab .directionV2 .tab-ul .tab-li .link {
+    color: #14191e;
+    font-size: 14px;
+    padding: 11px 20px 11px 20px;
+    display: block;
+  }
+  .toggleTab .directionV2 .tab-ul .tab-li .linkActive,
+  .toggleTab .directionV2 .tab-ul .tab-li .linkActivelong {
+    padding: 11px 12px 11px 13px;
+    background: #188eee;
+    display: block;
+    margin-top: -11px;
+    color: #fff;
+  }
+  .toggleTab .directionV2 .link-direction {
+    margin-top: 15px;
+  }
+  .toggleTab .directionV2:first-child {
+    border-bottom: 1px solid #ccc;
+  }
+  .toggleTab .direction {
+    width: 1190px;
+    margin: 0 auto;
+    display: block;
+  }
+  .toggleTab .direction .tab-ul .tab-li,
+  .toggleTab .direction .tab-ul .tab-liv1 {
+    display: inline-block;
+    padding-top: 11px;
+  }
+  .toggleTab .direction .tab-ul .tab-li .link,
+  .toggleTab .direction .tab-ul .tab-liv1 .link {
+    color: #14191e;
+    font-size: 14px;
+    padding: 11px 20px 11px 20px;
+    padding-top: 11px;
+  }
+  .toggleTab .direction .tab-ul .tab-li .linkActive,
+  .toggleTab .direction .tab-ul .tab-liv1 .linkActive,
+  .toggleTab .direction .tab-ul .tab-li .linkActivelong,
+  .toggleTab .direction .tab-ul .tab-liv1 .linkActivelong {
+    background: #188eee;
+    display: block;
+    color: #fff;
+  }
+  .toggleTab .direction .tab-ul .tab-li .linkActivelong,
+  .toggleTab .direction .tab-ul .tab-liv1 .linkActivelong {
+    margin-bottom: 0;
+  }
+  .toggleTab .link-direction {
+    color: #07111b;
+    font-size: 14px;
+    padding-left: 11px;
+    padding-right: 28px;
+    font-weight: bold;
+    padding-top: 11px;
+  }
+  .indexwrap3 {
+    padding-top: 50px;
+  }
+  .indexwrap3 .competitive .base-model .li {
+    margin-bottom: 44px;
+  }
+  .page {
+    text-align: center;
+    line-height: 33px;
+  }
+  .page {
+    clear: both;
+    padding-bottom: 60px;
+  }
+  .page a {
+    color: #666;
+  }
+  .page-link {
+    display: inline-block;
+    margin: 0 5px;
+    height: 33px;
+    width: 33px;
+    border-radius: 50%;
+  }
+  .page-link:hover,
+  .page-link.cur {
+    color: #fff;
+    background: #188eee;
+  }
+  .page-first,
+  .page-prev,
+  .page-next,
+  .page-last {
+    display: inline-block;
+    padding: 0 10px;
+  }
+  .page-first:hover,
+  .page-prev:hover,
+  .page-next:hover,
+  .page-last:hover {
+    color: #188eee;
+  }
+  .page-first.disabled,
+  .page-prev.disabled,
+  .page-next.disabled,
+  .page-last.disabled,
+  .page-first.disabled:hover,
+  .page-prev.disabled:hover,
+  .page-next.disabled:hover,
+  .page-last.disabled:hover {
+    color: #999;
+  }
+}
+@media (max-width: 1920px) and (max-width: 1189px) {
+  .toggleTab .directionV2 .tab-ul {
+    padding-left: 0.4rem;
+  }
+}
+@media (max-width: 1920px) and (max-width: 1189px) {
+  .toggleTab .directionV2 .tab-ul .tab-li .link {
+    font-size: 0.14rem;
+    padding: 0.06rem 0.06rem 0.11rem 0.06rem;
+  }
+}
+@media (max-width: 1920px) and (min-width: 970px) and (max-width: 1189px) {
+  .toggleTab .directionV2 .tab-ul .tab-li .linkActive,
+  .toggleTab .directionV2 .tab-ul .tab-li .linkActivelong {
+    padding: 0.06rem 0.06rem 0.11rem 0.06rem;
+    margin-top: -0.06rem;
+  }
+}
+@media (max-width: 1920px) and (max-width: 1200px) {
+  .toggleTab .directionV2 .link-direction {
+    margin-top: 15px;
+  }
+}
+@media (max-width: 1920px) and (min-width: 970px) and (max-width: 1189px) {
+  .toggleTab .direction {
+    width: 90%;
+  }
+}
+@media (max-width: 1920px) and (min-width: 970px) and (max-width: 1189px) {
+  .toggleTab .direction .tab-ul .tab-li,
+  .toggleTab .direction .tab-ul .tab-liv1 {
+    padding-top: 0.06rem;
+  }
+}
+@media (max-width: 1920px) and (min-width: 970px) and (max-width: 1189px) {
+  .toggleTab .direction .tab-ul .tab-li .link,
+  .toggleTab .direction .tab-ul .tab-liv1 .link {
+    font-size: 0.14rem;
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+  }
+}
+@media (max-width: 1920px) and (min-width: 970px) and (max-width: 1189px) {
+  .toggleTab .direction .tab-ul .tab-li .linkActive,
+  .toggleTab .direction .tab-ul .tab-liv1 .linkActive,
+  .toggleTab .direction .tab-ul .tab-li .linkActivelong,
+  .toggleTab .direction .tab-ul .tab-liv1 .linkActivelong {
+    padding: 0.06rem 0.06rem 0.11rem 0.06rem;
+    margin-top: -0.06rem;
+  }
+}
+@media (max-width: 1920px) and (max-width: 1200px) {
+  .toggleTab .link-direction {
+    margin-top: 0;
+  }
+}
+@media (max-width: 1920px) and (max-width: 1189px) {
+  .toggleTab .link-direction {
+    font-size: 0.14rem;
+    padding-left: 0.06rem;
+    padding-right: 0.14rem;
+    padding-top: 0.06rem;
+  }
+}
+@media (max-width: 969px) {
+  .toggleTabMove,
+  .toggleTabPC {
+    display: none;
+  }
+
+  .classificationMOVE {
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    background: #fff;
+    padding-bottom: 0.1rem;
+  }
+  .classificationMOVE h2 {
+    color: #000;
+    font-size: 0.28rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+  }
+  .classificationMOVE .btn-box .btn {
+    color: #666;
+    font-size: 0.26rem;
+    padding: 0.11rem 0.15rem 0.13rem 0.12rem;
+    background: #f2f2f2;
+    border: 1px solid #e1e1e1;
+    margin-right: 0.2rem;
+    margin-bottom: 0.2rem;
+  }
+  .classificationMOVE .btn-box .btnActive {
+    background: #e1e1e1;
+    border: 1px solid #cac8c8;
+  }
+  .indexwrap4 .open {
+    background: #78b421!important;
+  }
+  .indexwrap4 .vip {
+    background: #fea741!important;
+  }
+  .indexwrap4 .tit-over {
+    font-size: 0.22rem!important;
+  }
+  .indexwrap4 .b,
+  .indexwrap4 .a1 {
+    font-size: 0.18rem!important;
+  }
+  .indexwrap4 .top {
+    position: relative;
+    display: block;
+  }
+  .indexwrap4 .top .hotCourse {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .indexwrap4 .top i {
+    display: block;
+    box-sizing: border-box;
+    padding-bottom: 60%;
+  }
+  .indexwrap3 .competitive .base-model .li .top {
+    background-image: none!important;
+    height: auto!important;
+  }
+  .indexwrap4 .top:hover .hotCourse {
+    transition: none!important;
+  }
+  
+  .page { display:none;}
+}
+@media (max-width: 640px) {
+  .page-first,
+  .page-prev,
+  .page-next,
+  .page-last {
+    padding: 0 .1rem;
+  }
+}

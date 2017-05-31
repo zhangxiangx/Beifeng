@@ -1,0 +1,183 @@
+.Nicole-ad-box{
+	width:68px;
+	height: 370px;
+	background:#fff;
+	border:1px solid #ccc;
+	border-radius:5px;
+	position:fixed;
+	top:265px;
+	left:3px;
+	padding:0 5px;
+	font-size: 12px;
+	text-align: center;
+	z-index:99999;
+}
+.Nicole-ad-ul{
+	margin:0;
+	padding:0;
+}
+.Nicole-ad-ul .Nicole-ad-li{
+	list-style: none;
+	height: 84px;
+	border-bottom: 1px solid #ccc;
+	margin-top:10px;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	display: block;
+}
+.Nicole-ad-ul .Nicole-ad-li1{
+
+	height: 50px;
+	
+}
+.Nicole-ad-ul .Nicole-ad-li:hover .Nicole-ad-text{
+	color: #5ea556;
+}
+.Nicole-ad-ul .Nicole-ad-li-noBoederB{
+	border-bottom:0 none;
+}
+.Nicole-ad-ul .Nicole-ad-icon1{
+	width: 20px;
+	height: 18px;
+	display: inline-block;
+	background: url("../../../img/new1611/Nicole-ad-icon.png") no-repeat -25px -2px;
+}
+.Nicole-ad-ul .Nicole-ad-icon2{
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	background: url("../../../img/new1611/Nicole-ad-icon.png") no-repeat -25px -24px;
+}
+.Nicole-ad-ul .Nicole-ad-icon3{
+	width: 19px;
+	height: 19px;
+	display: inline-block;
+	background: url("../../../img/new1611/Nicole-ad-icon.png") no-repeat 0 -25px;
+}
+.Nicole-ad-ul .Nicole-ad-icon4{
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	background: url("../../../img/new1611/Nicole-ad-icon.png") no-repeat -1px 0;
+}
+.Nicole-ad-ul .Nicole-ad-icon5{
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	background: url("../../../img/new1611/Nicole-ad1-icon.png") no-repeat;
+}
+.Nicole-ad-ul .Nicole-ad-text{
+	color:#666;
+	margin:0;
+	padding-top: 7px;
+}
+.Nicole-QQ-box{	
+
+	width: 142px;
+	height: 230px;
+	background: #fff;
+	border:2px solid #ccc;
+	border-radius: 5px;
+	position: absolute;
+	top: 60px;
+	left: 65px;
+	padding-top: 8px;
+	display:none;
+}
+.Nicole-ad-arrow{
+	position: absolute;
+	top: 26px;
+	left: -13px;
+}
+.Nicole-QQ-text{
+	color: #5dc2f0;
+}
+.Nicole-ad-code{
+	width: 105px;
+	height: 105px;
+}
+.Nicole-ad-btn{
+	padding:10px 20px;
+	background:  #5dc2f0;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 500;
+	border: 0 none;
+	border-radius: 6px;
+	cursor: pointer;
+}
+.Nicole-share-box{
+	width: 170px;
+	height: 50px;
+	border: 1px solid #ccc;
+	background: #fff;
+	border-radius: 5px;
+	position: absolute;
+	top:  252px;
+	left: 61px;
+	padding:3px 0 0 18px;
+	display: none;
+}
+.bdshare-button-style1-32 a{
+	margin-right: 17px!important;
+}
+.Nicole-share-weixin{
+	width: 24px;
+	height: 19px;
+	background: url("../../../img/share-icon.png") no-repeat -12px -16px;
+	display: inline-block;
+	cursor: pointer;
+}
+.Nicole-share-weibo{
+	width: 23px;
+	height: 23px;
+	background: url("../../../img/share-icon.png") no-repeat -65px -14px;
+	display: inline-block;
+	cursor: pointer;
+	margin:0 28px;
+}
+.Nicole-share-kongjian{
+	width: 25px;
+	height: 20px;
+	background: url("../../../img/share-icon.png") no-repeat -114px -16px;
+	display: inline-block;
+	cursor: pointer;
+	margin-right: 28px;
+}
+
+.Nicole-share-weixin:hover{
+	background-position: -12px -68px;
+}
+.Nicole-share-weibo:hover{
+	background-position: -64px -66px;
+}
+.Nicole-share-kongjian:hover{
+	background-position: -114px -68px;
+}
+.Nicole-ad-weixinCode{
+	width: 300px;
+	height: 160px;
+	background: #fff;
+	border: 1px solid #ccc;
+	position: absolute;
+	top: 121px;
+	right: 331px;
+	padding: 25px;
+}
+
+@media (max-width:970px) {
+.Nicole-ad-box{
+		display: none;
+	}
+}
+@media (max-width:840px) {
+.Nicole-ad-box{
+		display: none;
+	}
+}
+@media (max-width:767px) {
+.Nicole-ad-box{
+		display: none;
+	}
+}

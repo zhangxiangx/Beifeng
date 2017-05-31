@@ -1,0 +1,55 @@
+.fix-consult {
+	position: fixed;
+	right: 0;
+	bottom: 15%;
+	z-index: 1;
+}
+
+.fix-consult a {
+	position: relative;
+	display: block;
+
+	padding: 10px;
+	color: #fff;
+	font-size: 13px;
+}
+
+.fix-consult .p1 {
+	font-size: 16px;
+}
+
+.consult-item-0 a { background: #75aaf2 url(../../images/consult/fix_consult_bg00.jpg) no-repeat right center; border-bottom: 3px solid #468ea7;}
+.consult-item-1 a { background: #66cdf2 url(../../images/consult/fix_consult_bg01.jpg) no-repeat right center; border-bottom: 3px solid #468ea7;}
+.consult-item-2 a { background: #a766ff url(../../images/consult/fix_consult_bg02.jpg) no-repeat right center;; border-bottom: 3px solid #7733a4;}
+.consult-item-3 a { background: #ed2224 url(../../images/consult/fix_consult_bg03.jpg) no-repeat right center;; border-bottom: 3px solid #ac1717;}
+.consult-item-4 a { background: #fbad1c url(../../images/consult/fix_consult_bg04.jpg) no-repeat right center;; border-bottom: 3px solid #c07017;}
+.consult-item-5 a { background: #7fc242 url(../../images/consult/fix_consult_bg05.jpg) no-repeat right center;; border-bottom: 3px solid #559942;}
+.consult-item-6 a { background: #30b6a4 url(../../images/consult/fix_consult_bg05.jpg) no-repeat right center;; border-bottom: 3px solid #209183;}
+
+.consult-item-0 a:hover { background: #659eec url(../../images/consult/fix_consult_bg00_h.jpg) no-repeat right center;}
+.consult-item-1 a:hover { background: #2cb7e9 url(../../images/consult/fix_consult_bg01_h.jpg) no-repeat right center;}
+.consult-item-2 a:hover { background: #9243fe url(../../images/consult/fix_consult_bg02_h.jpg) no-repeat right center;}
+.consult-item-3 a:hover { background: #d80103 url(../../images/consult/fix_consult_bg03_h.jpg) no-repeat right center;}
+.consult-item-4 a:hover { background: #ff9600 url(../../images/consult/fix_consult_bg04_h.jpg) no-repeat right center;}
+.consult-item-5 a:hover { background: #67a92c url(../../images/consult/fix_consult_bg05_h.jpg) no-repeat right center;}
+.consult-item-6 a:hover { background: #299687 url(../../images/consult/fix_consult_bg05_h.jpg) no-repeat right center;}
+
+
+
+
+@media (max-width:768px) {
+	.fix-consult { display: none;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,48 @@
+.mm-menu {
+	background-color: rgba(5, 18, 39, 0.9);
+}
+
+.mm-menu.mm-offcanvas {
+	width: 30%;
+	min-width: 30%;
+	max-width: 30%;
+}
+
+.mm-menu .mm-listview > li.mm-selected > a:not(.mm-next), .mm-menu .mm-listview > li.mm-selected > span {
+	background-color: rgba(5, 18, 39, 0.9);
+}
+
+.mm-listview > li > a.menu-link {
+	display: block;
+	padding: .3rem .15rem;
+	color: #fff;
+	font-size: .28rem;
+	text-align: center;
+}
+
+.menu-link .ico {
+	display: block;
+	margin: 0 auto .25rem;
+	width: 0.6rem;
+}
+
+.menu-link .font-move {
+	font-size: 0.28rem;
+	color: #fff;
+}
+
+html.mm-right.mm-opening .mm-slideout {
+    transform: translate3d(-30%, 0px, 0px);
+}
+
+@media all and (max-width: 175px) {
+	html.mm-right.mm-opening .mm-slideout {
+	    transform: translate3d(-30%, 0px, 0px);
+	}
+}
+
+@media all and (min-width: 550px) {
+	html.mm-right.mm-opening .mm-slideout {
+	    transform: translate3d(-30%, 0px, 0px);
+	}
+}
